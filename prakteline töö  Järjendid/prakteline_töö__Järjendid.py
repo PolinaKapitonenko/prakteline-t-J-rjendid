@@ -31,7 +31,7 @@ while True:
                 späev=d+"."+m+"."+yy+y #ei ple 18.., 19.., 20..,
                 print(f"Sünnipäev on {späev}")
                 print(f"Viimane number: {isikukood_list[-1]}")
-   #komtrollnumber
+ 
 
 
 
